@@ -28,9 +28,9 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Probar metodos | Actividad | Actividad | Actividad | Actividad | 
-| Manipular selectores | Otra actividad | Otra actividad | Otra actividad | Otra actividad | 
-| Eventos | Otra más | Otra más | Otra más | Otra más |
+| Probar metodos |  Espacio Lupo sobre testing | Activididad | Actividad | Actividad | 
+| Manipular selectores | Ejercicios de test| Otra actividad| Otra actividad | Otra actividad | 
+| Eventos | Documentacion de condicionales | Otra más | Otra más | Otra más |
 
 
 ## Recursos
